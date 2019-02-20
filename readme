@@ -1,0 +1,9 @@
+This repository is used for a simple Python script I created called "répèt" (repeat!)
+I use the script for teaching myself French vocbulary and especially these aweful numbers (quatre-vingt-dix-neuf!)
+However, the script is not limited to French and can be used for any language or any information that can be expressed in two
+columns (friends-birthdays, countries-capitals etc.)
+The scrip uses external .csv files that contain just the two columns under consideration.
+Feel free to share and contribute.
+
+Created by andreas.muller@geschichte.uni-halle.de
+CC0
